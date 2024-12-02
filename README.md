@@ -34,8 +34,8 @@ sudo docker-compose up -d
 ### 4. Вход в MinIO Console
 ####    По умолчанию, MinIO использует следующие учетные данные:
 
-#### Access Key: minioadmin
-#### Secret Key: minioadmin
+#### Access Key: ruhani
+#### Secret Key: Q!122WS@ws))-=+32
 #### Войдите в веб-интерфейс с этими данными, чтобы управлять бакетами и файлами.
 
 ------
